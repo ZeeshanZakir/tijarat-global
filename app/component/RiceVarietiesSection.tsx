@@ -92,7 +92,7 @@ export default function RiceVarietiesSection() {
           Our{" "}
           <span className="text-yellow-400 relative inline-block">
             Rice Varieties
-            <span className="absolute -bottom-1 left-0 w-full h-[3px] bg-yellow-400"></span>
+            <span className="absolute -bottom-1 left-0 w-full h-0.75 bg-yellow-400"></span>
           </span>
         </h2>
 

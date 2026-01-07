@@ -24,7 +24,7 @@ export default function AboutSection() {
           About{" "}
           <span className="text-yellow-400 relative inline-block">
             Tijarat Global
-            <span className="absolute -bottom-1 left-0 w-full h-[3px] bg-yellow-400"></span>
+            <span className="absolute -bottom-1 left-0 w-full h-0.75 bg-yellow-400"></span>
           </span>
         </h2>
       </div>
@@ -45,7 +45,7 @@ export default function AboutSection() {
         <div>
           <h3 className="text-xl font-bold uppercase text-yellow-400 mb-4 relative inline-block">
             About Us
-            <span className="absolute -bottom-1 left-0 w-full h-[2px] bg-yellow-400"></span>
+            <span className="absolute -bottom-1 left-0 w-full h-0.5 bg-yellow-400"></span>
           </h3>
 
           <p className="text-gray-700 leading-relaxed mb-6">

@@ -68,10 +68,10 @@ export default function Navbar() {
             height={40}
             priority
             className="
-              w-[100px]
-              sm:w-[110px]
-              md:w-[120px]
-              lg:w-[140px]
+              w-25
+              sm:w-27.5
+              md:w-30
+              lg:w-35
               h-auto
               transition-all
               duration-300
