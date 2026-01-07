@@ -9,8 +9,8 @@ const riceVarieties = [
   {
     name: "PK 386",
     description: "White, Steamy, Extra Long Grain, Aromatic",
-    image: "/rice/pk-386.png",
-    url: "/varieties/pk-386",
+    image: "/rice/PK-386.png",
+    url: "/varieties/PK-386",
   },
   {
     name: "Super Kernel Basmati Rice",
@@ -45,13 +45,13 @@ const riceVarieties = [
   {
     name: "Brown Rice",
     description: "Nutritious, High Fiber, Minimally Processed",
-    image: "/rice/brown-rice.png",
+    image: "/rice/Brown-Rice.png",
     url: "/varieties/brown-rice",
   },
   {
     name: "KS-282",
     description: "Nutritious, High Fiber, Minimally Processed",
-    image: "/rice/ks-282.png",
+    image: "/rice/KS-282.png",
     url: "/varieties/ks-282",
   },
   {
